@@ -1,0 +1,5 @@
+Pages crawled: 20000
+Current URL: COMPLETED
+Found pages: 3343
+Found PDFs: 2918
+Last update: 2025-06-24 15:36:18.025803
